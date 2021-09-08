@@ -1,5 +1,5 @@
 # Dichotomy_All_Roots_In_Range
-## Allows to find all the roots of the equation by dichotomy mathod
+## Allows to find all the roots of the equation by dichotomy method
 
 	e -- approximated to the root
 	a -- first value
